@@ -1,5 +1,5 @@
 <h1>🔥 Maratona The Last of Us by Kenzie Academy 🔥</h1>
-<img src="preview.jpg"><br>
+<img src="preview.png"><br>
 
 
 **Develop a promotional website for The Last of Us series using fundamentals of programming and technologies**
